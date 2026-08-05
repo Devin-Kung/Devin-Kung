@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![info](https://github-readme-stats.vercel.app/api?username=Devin-Kung)
+![Stats](./profile/stats.svg)
 
-![info](https://github-readme-stats.vercel.app/api/top-langs/?username=Devin-Kung&layout=compact)
+![Top Languages](./profile/top-langs.svg)
+
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
